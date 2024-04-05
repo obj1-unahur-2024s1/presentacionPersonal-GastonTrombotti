@@ -5,7 +5,7 @@
 Mi nombre es Gastón Trombotti. soy de la ciudad de Las Parejas, Santa Fe y cursó la carrera de
 Tecnicatura de Programación de Videojuegos en la cohorte de Rosario.
 
-![GastonTrombotti](./assets/UNAHUR.png)
+![GastonTrombotti](./assets/cara.png)
 
 Desde el 2003 trabajó en Contacto 100.9 (una radio local) en distintos roles en producción tanto delante como detrás de los micrófonos
 Cursé por un tiempo la carrera de Licenciatura en Ciencias de la Computación en la Facultad de Ciencias Exactas, Ingeniería
