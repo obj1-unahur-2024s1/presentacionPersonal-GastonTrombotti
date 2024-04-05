@@ -1,35 +1,27 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+# Gast√≥n Trombotti
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es Gast√≥n Trombotti. soy de la ciudad de Las Parejas, Santa Fe y curs√≥ la carrera de
+Tecnicatura de Programaci√≥n de Videojuegos en la cohorte de Rosario.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+![GastonTrombotti](./assets/UNAHUR.png)
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+Desde el 2003 trabaj√≥ en Contacto 100.9 (una radio local) en distintos roles en producci√≥n tanto delante como detr√°s de los micr√≥fonos
+Curs√© por un tiempo la carrera de Licenciatura en Ciencias de la Computaci√≥n en la Facultad de Ciencias Exactas, Ingenier√≠a
+y Agrimensura de la Universidad Nacional de Rosario, que no complete.
+Al regresar, me sume a la productora "Visi√≥n Multimedios" como camar√≥grafo y tambi√©n realizando trabajos ocasionales de edici√≥n
+Actualmente me desempe√±o en ambas ocupaciones.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Siempre me gusto todo lo relacionado a la computaci√≥n y principalmente a la programaci√≥n e incluso a los 36 a√±os
+sigo aprendiendo cosas.
+
+Formamos un muy buen grupo de trabajo con otros compa√±eros de la carrera y nos ayudamos los unos a los otros durante la cursada.
+
+Visto que estoy cursando una carrera relacionada a ellos, es facil adivinar que los videojuegos son uno de mis principales 
+pasatiempos, no solo en jugar pero en aprender como funcionan. Incluso e intentado algo de ROM hacking llegando a crear un 
+peque√±o modulo de edici√≥n de animaci√≥n para utilizar en la aplicaci√≠√≥n Nightmare para el titulo ‚ÄúFinal Fantasy Tactics A2‚Äù
+
+![Ejemplo modulo](./assets/module.png)
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
