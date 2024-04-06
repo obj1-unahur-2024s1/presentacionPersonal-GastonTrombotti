@@ -17,6 +17,10 @@ Siempre me gusto todo lo relacionado a la computación y principalmente a la pro
 sigo aprendiendo cosas.
 
 Formamos un muy buen grupo de trabajo con otros compañeros de la carrera y nos ayudamos los unos a los otros durante la cursada.
+Tambien logramos crear un juego durante una GameJam (una pequeña aventura grafica llamada "Animalitos en Fuga") y un otro como proyecto de fin de año al que llamamos "Proyecto Andromeda" que en este caso es un deck builder ambientado en una prisión espacial. Ambos en Unity.
+
+[Animalitos en fuga](https://ignchamo.itch.io/animalitos-en-fuga "Animalitos en Fuga")
+[Proyecto Andromeda](https://ultragames007.itch.io/protocolo-andromeda "Proyecto Andromeda")
 
 Visto que estoy cursando una carrera relacionada a ellos, es facil adivinar que los videojuegos son uno de mis principales 
 pasatiempos, no solo en jugar pero en aprender como funcionan. Incluso e intentado algo de ROM hacking llegando a crear un 
